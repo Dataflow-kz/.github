@@ -6,33 +6,26 @@
 ![Static Badge](https://img.shields.io/badge/Powered%20by-Dataflow-lime?style=for-the-badge)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC67nxi7_QEAKISezy9uZqQw)
 
-> *DS/ML = Data Science & Machine Learning &nbsp; | &nbsp; AI = Artificial Intelligence*
+> *DS/ML = Data Science & Machine Learning &nbsp; | &nbsp; AI = Artificial Intelligence | &nbsp; PM = Product Management*
 
 ## About Us
 
-We are a dynamic and developing team in the field of DS/ML from Kazakhstan. We are developing AI solutions that automate business processes and enhance the efficiency of companies.
+We are a dynamic and developing team [Arman & Tolegen] in the field of DS/ML from Kazakhstan participating in hackathons & case championships.
 
 ## Mission
 
-- **Making Machine Learning Look easy ~ Making AI Accessible to everyone**
+- **Winning more hackathons and case championships 🏆**
 
 ## Key Focus Areas
 
-- **Local Large Language Models (LLMs):**  
-  Developing applications for a wide range of users with minimal hardware requirements.
-
-- **Computer Vision (YOLO | Tensorflow | PyTorch):**  
-  Creating smart home applications using AI.
-
-- **Dataflow Education:**  
-  Providing an education platform for learning AI tools from scratch.
+- **Product Development:**
+  Developing and launching our own products in the field of DS/ML & AI [Product Hunt].
 
 - **Dataflow Research:**  
-  Publishing research projects, articles, and videos in the field of Data Science and Machine Learning. 
+  Publishing research projects, articles, and videos in the field of DS/ML & AI.
 
 - **DS/ML Competitions | Challenges:**  
-  Participating in global competitions by Meta, Amazon, Google, and Microsoft, as well as case championships, datathons, and hackathons in Data Science and AI.
-
+  Participating in global competitions by Meta, Amazon, Google, and Microsoft, as well as case championships, datathons, and hackathons in DS/ML & AI.
 
 ## Supported by
 
@@ -54,4 +47,4 @@ We are a dynamic and developing team in the field of DS/ML from Kazakhstan. We a
 
 ---
 
-**Dataflow - Making ML look easy!**
+**Dataflow - Making IT look easy!**
