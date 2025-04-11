@@ -6,15 +6,15 @@
 ![Static Badge](https://img.shields.io/badge/Powered%20by-Dataflow-lime?style=for-the-badge)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC67nxi7_QEAKISezy9uZqQw)
 
-> *DS/ML = Data Science & Machine Learning &nbsp; | &nbsp; AI = Artificial Intelligence | &nbsp; PM = Product Management*
+> *DS/ML = Data Science & Machine Learning &nbsp; | In Numpy we Trust! | Numpy is all you need!*
 
 ## About Us
 
-We are a dynamic and developing team [Arman & Tolegen] in the field of DS/ML from Kazakhstan participating in hackathons & case championships.
+💫 Dynamic DS/ML teams / projects led by `mr. Arman (梦想 | 夢 | 꿈)` 💫
 
 ## Mission
 
-- **Winning more hackathons and case championships 🏆**
+- **No Idea, just winning more hackathons and case championships 🏆**
 
 ## Key Focus Areas
 
@@ -43,7 +43,6 @@ We are a dynamic and developing team [Arman & Tolegen] in the field of DS/ML fro
 | 3 | YouTube                      | [Dataflow Research Youtube](https://www.youtube.com/channel/UC67nxi7_QEAKISezy9uZqQw)          |
 | 4 | Github                       | [Github](github.com/dataflow-kz)                                                               |
 | 5 | HuggingFace                  | [HuggingFace](https://huggingface.co/dataflow)                                                 |
-| 6 | Projects Ordering            | [Order a Project](https://airtable.com/apph8jeDeQkxxpx8h/shrI4C9kiN1vIcUBP)                    |
 
 ---
 
