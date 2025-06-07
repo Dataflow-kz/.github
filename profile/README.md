@@ -26,12 +26,9 @@
 - **DS/ML Competitions | Challenges:**  
   Participating in global competitions by Meta, Amazon, Google, and Microsoft, as well as case championships, datathons, and hackathons in DS/ML & AI.
 
-## Supported by
+## Main Tool
 
-<a href="https://foundershub.startups.microsoft.com" target="_blank"><img src="https://startupstack.com/media/logo/MS_Startups_FH_lockup_hrz_OnLght_RGB.png" width="150" alt="Microsoft Founders Hub Members"></a> &nbsp; 
-<a href="https://astanahub.com" target="_blank"><img src="https://lh6.googleusercontent.com/proxy/DOEfrWxxPKkIX4kIEraKaksP1ETs2QRaTUCW3xhkMT2hJkbQ5M3tew_w2TTj6Nmtd5Fu0s_Ze49MpWq7iHdEQuXXjAlQrUV_81afe9GWFMJyI2_M5S1m74imPRgo2AmuO6Ks5qq2c4r8ER9PumdwJfk7Xvj0EUUKX2P_kM5gLiCj0WrO" width="150" alt="Astana Hub Friendly"></a> &nbsp;
-<a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="150" alt="Streamlit Friendly"></a> &nbsp;
-<a href="https://gemini.google.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Gemini_language_model_logo.png" width="150" alt="Gemini AI Friendly"></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://raspberrytips.com/wp-content/uploads/2024/10/numpylogo-1024x461.png" width="200" alt="Numpy Org"></a>
 
 ## Useful Links
 
