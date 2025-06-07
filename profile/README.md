@@ -38,11 +38,9 @@
 
 | # | Description                  | Link                                                                                           |
 |---| ---------------------------- | ---------------------------------------------------------------------------------------------- |
-| 1 | Website                      | [Dataflow.kz](https://dataflow.kz/)                                                            |
+| 1 | Website                      | [Dataflow Blog](https://dataflow-blog.vercel.app/)                                             |
 | 2 | Linkedin                     | [Linkedin](https://www.linkedin.com/company/dataflow-kz)                                       |
-| 3 | YouTube                      | [Dataflow Research Youtube](https://www.youtube.com/channel/UC67nxi7_QEAKISezy9uZqQw)          |
-| 4 | Github                       | [Github](github.com/dataflow-kz)                                                               |
-| 5 | HuggingFace                  | [HuggingFace](https://huggingface.co/dataflow)                                                 |
+| 3 | HuggingFace                  | [HuggingFace](https://huggingface.co/dataflow)                                                 |
 
 ---
 
