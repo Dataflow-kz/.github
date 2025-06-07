@@ -4,7 +4,6 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDataflow-kz%2F.github&style=for-the-badge&label=Visitors&countColor=%232ccce4&labelStyle=upper)
 ![Static Badge](https://img.shields.io/badge/Powered%20by-Dataflow-lime?style=for-the-badge)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC67nxi7_QEAKISezy9uZqQw)
 
 > *DS/ML = Data Science & Machine Learning &nbsp; | In Numpy we Trust! | Numpy is all you need!*
 
