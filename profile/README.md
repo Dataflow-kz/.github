@@ -5,11 +5,11 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDataflow-kz%2F.github&style=for-the-badge&label=Visitors&countColor=%232ccce4&labelStyle=upper)
 ![Static Badge](https://img.shields.io/badge/Powered%20by-Dataflow-lime?style=for-the-badge)
 
-> *DS/ML = Data Science & Machine Learning &nbsp; | In Numpy we Trust! | Numpy is all you need!*
+> *DS/ML = Data Science & Machine Learning &nbsp; | Numpy is all you need!*
 
 ## About Us
 
-💫 Dynamic DS/ML teams / projects led by `mr. Arman (梦想 | 夢 | 꿈)` 💫
+💫 Dynamic DS/ML teams / projects led by `mr. Arman` 💫
 
 ## Mission
 
@@ -35,9 +35,9 @@
 | # | Description                  | Link                                                                                           |
 |---| ---------------------------- | ---------------------------------------------------------------------------------------------- |
 | 1 | Website                      | [Dataflow Blog](https://dataflow-blog.vercel.app/)                                             |
-| 2 | Linkedin                     | [Linkedin](https://www.linkedin.com/company/dataflow-kz)                                       |
+| 2 | Linkedin                     | [Linkedin](https://www.linkedin.com/company/dataflow-blog)                                       |
 | 3 | HuggingFace                  | [HuggingFace](https://huggingface.co/dataflow)                                                 |
 
 ---
 
-**Dataflow - Making IT look easy!**
+**Dataflow - Making ML look easy!**
