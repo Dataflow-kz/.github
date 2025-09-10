@@ -9,7 +9,7 @@
 
 ## About Us
 
-💫 Dynamic DS/ML teams / projects led by `mr. Arman` 💫
+💫 DS/ML projects led by [`@Arman`](https://www.dsml.kz/users/arman) 💫
 
 ## Mission
 
@@ -17,14 +17,9 @@
 
 ## Key Focus Areas
 
-- **Product Development:**
-  Developing and launching our own products in the field of DS/ML & AI [Product Hunt].
-
-- **Dataflow Research:**  
-  Publishing research projects, articles, and videos in the field of DS/ML & AI.
-
-- **DS/ML Competitions | Challenges:**  
-  Participating in global competitions by Meta, Amazon, Google, and Microsoft, as well as case championships, datathons, and hackathons in DS/ML & AI.
+1. Hackathons & Competitions
+2. Research & Development
+3. Open Source Projects
 
 ## Main Tool
 
